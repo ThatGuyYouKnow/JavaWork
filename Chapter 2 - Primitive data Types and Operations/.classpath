@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Example2-1_Computing_Area_for_a_Circle"/>
+	<classpathentry kind="src" path="Example2-2_Entering_Input_From_Dialog_Boxes"/>
+	<classpathentry kind="src" path="Example2-3_Computing_Loan_Payments"/>
+	<classpathentry kind="src" path="Example2-4_Monetary_Units"/>
+	<classpathentry kind="src" path="Example2-5_Displaying _the_Current_Time"/>
+	<classpathentry kind="src" path="Chapter 2 Programming Exercises"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
