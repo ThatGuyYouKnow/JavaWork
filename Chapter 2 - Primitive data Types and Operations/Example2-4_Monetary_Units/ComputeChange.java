@@ -45,7 +45,7 @@ public class ComputeChange {
 		int numberOfNickels = remainingAmount / 5;
 		remainingAmount = remainingAmount % 5;
 		
-		// find the number of pennis in the remaining amount
+		// find the number of pennies in the remaining amount
 		int numberOfPennies = remainingAmount;
 		
 		// Display results
